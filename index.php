@@ -43,6 +43,7 @@
             <input type="number"  min="1" max="32" required name="numlength">
             <button class="btn btn-warning text-uppercase">generate</button>
         </form>
+        <h1><?php echo $password ?></h1>
     </main>
 
 
